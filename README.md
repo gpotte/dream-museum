@@ -1,6 +1,4 @@
-# DREAM
-
-# MUSEUM
+# DREAM MUSEUM
 
 ## First overview
 
