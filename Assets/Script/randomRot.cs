@@ -46,11 +46,6 @@ public class randomRot : MonoBehaviour
         return new Quaternion (SpeedX, SpeedY, SpeedZ, 0);
     }
 
-    Renderer rend;
-void OnCollisionStay(Collision jeej)
-    {
-        print("lol");
-    }
 
     void Update()
     {
