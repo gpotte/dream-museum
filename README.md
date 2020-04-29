@@ -4,36 +4,6 @@
 
 Gilles Potte
 
-
-```
-Cheatsheet
-```
-Unity:
-The main software used for developping
-
-Procedural Generation:
-In computing, procedural generation is a method of
-creating data algorithmically as opposed to manually,
-typically through a combination of human-generated as-
-sets and algorithms coupled with computer-generated
-randomness and processing power.
-
-Shader:
-In computer graphics, a shader is a type of computer
-program originally used for shading in 3D scenes (the
-production of appropriate levels of light, darkness,
-and color in a rendered image). They now perform a va-
-riety of specialized functions in various fields within
-the category of computer graphics special effects.
-
-```
-Steam:
-The main gaming platform in the world, softwares re-
-leased on this platform can access the ‘workshop’
-where players can create their own improvement to the
-software
-```
-
 ```
 Starting Point:
 ```
